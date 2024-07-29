@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yusiph
 - 👀 I’m interested in machine engineering
-- 🌱 I’m currently learning c++ C# and html 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ig : @yusiv.77
+- 🌱 I’m currently learning Java.
+- 📫 How to reach me ig : @9yusiff
 
 <!---
 yusiph/yusiph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
